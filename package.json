@@ -9,7 +9,7 @@
   "author": "Giacinto Greco",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.2",
     "yargs": "^13.2.4"
   }
 }
